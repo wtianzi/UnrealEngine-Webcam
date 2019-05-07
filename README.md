@@ -10,5 +10,6 @@ The project is following the step here: [https://docs.unrealengine.com/en-us/Eng
 2. When loading the web cameras, sometimes the default track is 1, which is black in the media player. To change this, use a delay. The blueprints is attached below.
 
 ![Blueprint](screen/bp_uewebcam.png)
+![Blueprint](screen/combobox.png)
 
 Enjoy:) 

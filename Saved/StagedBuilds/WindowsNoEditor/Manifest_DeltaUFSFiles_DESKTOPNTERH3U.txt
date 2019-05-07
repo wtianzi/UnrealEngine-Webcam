@@ -1506,6 +1506,8 @@ Engine/Content/Tutorial/ContentIntroCurve.uasset
 Engine/Content/Tutorial/ContentIntroCurve.uexp
 Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset
 Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uexp
+Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uasset
+Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uexp
 Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset
 Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uexp
 Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset
@@ -1620,12 +1622,18 @@ Multiwebcamp/Content/Media/ImageMediaSourse1.uasset
 Multiwebcamp/Content/Media/ImageMediaSourse1.uexp
 Multiwebcamp/Content/Media/Img1.uasset
 Multiwebcamp/Content/Media/Img1.uexp
+Multiwebcamp/Content/Movies/CameraList.uasset
+Multiwebcamp/Content/Movies/CameraList.uexp
 Multiwebcamp/Content/Movies/HUD.uasset
 Multiwebcamp/Content/Movies/HUD.uexp
 Multiwebcamp/Content/Movies/MediaPlayer.uasset
 Multiwebcamp/Content/Movies/MediaPlayer.uexp
 Multiwebcamp/Content/Movies/MediaPlayer_Video.uasset
 Multiwebcamp/Content/Movies/MediaPlayer_Video.uexp
+Multiwebcamp/Content/Movies/SecondWebcam.uasset
+Multiwebcamp/Content/Movies/SecondWebcam.uexp
+Multiwebcamp/Content/Movies/SecondWebcam_Video.uasset
+Multiwebcamp/Content/Movies/SecondWebcam_Video.uexp
 Multiwebcamp/Content/StarterContent/Architecture/Floor_400x400.uasset
 Multiwebcamp/Content/StarterContent/Architecture/Floor_400x400.uexp
 Multiwebcamp/Content/StarterContent/Audio/Starter_Background_Cue.uasset
